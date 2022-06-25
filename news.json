@@ -3,28 +3,28 @@
     "id": 1,
     "title": "Roberto Fernandes crê em janela de transferências ",
     "description": "Técnico alerta para necessidade de contratações a partir de 18 de julho, mas lembra dos reforços que já estão no clube",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/1.jpg",
+    "image": "https://raw.githubusercontent.com/pgustavo73/-soccer-news-api/main/images/1.jpg",
     "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2022/06/25/roberto-fernandes-cre-em-janela-de-transferencias-cirurgica-no-nautico.ghtml"
   },
   {
     "id": 2,
     "title": "Mereço uma segunda chance",
     "description": "De volta após polêmica, Thiago Ennes pede desculpas ao Náutico; lateral explica que agiu de cabeça quente ao dizer que clube seria rebaixado",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/2.jpg",
+    "image": "https://raw.githubusercontent.com/pgustavo73/-soccer-news-api/main/images/2.jpg",
     "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2022/06/22/em-retorno-thiago-ennes-pede-desculpas-ao-nautico-mereco-uma-segunda-chance.ghtml"
   },
   {
     "id": 3,
     "title": "De saida",
     "description": "Pouco aproveitado, meia Eduardo Teixeira deixa o Náutico; lateral também deve sair",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/3.jpg",
+    "image": "https://raw.githubusercontent.com/pgustavo73/-soccer-news-api/main/images/3.jpg",
     "link": "https://ge.globo.com/pe/futebol/times/nautico/post/2022/06/24/pouco-aproveitado-meia-eduardo-teixeira-deixa-o-nautico-lateral-tambem-deve-sair.ghtml"
   },
   {
     "id": 4,
     "title": "Nove fora...",
     "description": "Roberto Fernandes quebra a cabeça por substituto de Kieza; Amarildo, Robinho e Júlio são as opções",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/4.jpg",
+    "image": "https://raw.githubusercontent.com/pgustavo73/-soccer-news-api/main/images/4.jpg",
     "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2022/06/22/roberto-fernandes-quebra-a-cabeca-por-substituto-de-kieza-veja-opcoes.ghtml"
   }
 ]
