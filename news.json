@@ -1,30 +1,30 @@
 [
   {
     "id": 1,
-    "title": "Roberto Fernandes crê em janela de transferências ",
-    "description": "Técnico alerta para necessidade de contratações a partir de 18 de julho, mas lembra dos reforços que já estão no clube",
+    "title": "Após susto no tendão de Aquiles, Kieza treina normalmente e deve reforçar o Náutico contra o Vasco",
+    "description": "Atacante foi ausência na reapresentação da equipe na última segunda-feira, mas participou da atividade desta terça-feira e não preocupa",
     "image": "https://raw.githubusercontent.com/pgustavo73/-soccer-news-api/main/images/1.jpg",
-    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2022/06/25/roberto-fernandes-cre-em-janela-de-transferencias-cirurgica-no-nautico.ghtml"
+    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2022/09/13/apos-susto-no-tendao-de-aquiles-kieza-treina-normalmente-e-deve-reforcar-o-nautico-contra-o-vasco.ghtml"
   },
   {
     "id": 2,
-    "title": "Mereço uma segunda chance",
-    "description": "De volta após polêmica, Thiago Ennes pede desculpas ao Náutico; lateral explica que agiu de cabeça quente ao dizer que clube seria rebaixado",
+    "title": "Com lesão na coxa, Wellington é mais um desfalque do Náutico contra o Vasco; veja provável time",
+    "description": "Dado Cavalcanti acumula problemas na escalação e aciona Júnior Tavares de volta à lateral-esquerda; time titular que treina nesta manhã nos Aflitos também tem Jean Carlos retornando",
     "image": "https://raw.githubusercontent.com/pgustavo73/-soccer-news-api/main/images/2.jpg",
-    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2022/06/22/em-retorno-thiago-ennes-pede-desculpas-ao-nautico-mereco-uma-segunda-chance.ghtml"
+    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2022/09/14/com-lesao-na-coxa-wellington-e-mais-um-desfalque-no-nautico-para-pegar-o-vasco-veja-provavel-time.ghtml"
   },
   {
     "id": 3,
-    "title": "De saida",
-    "description": "Pouco aproveitado, meia Eduardo Teixeira deixa o Náutico; lateral também deve sair",
+    "title": "Melhora na defesa empurra o Náutico em reação contra a queda",
+    "description": "Nas vitórias seguidas diante do Ituano e Brusque - sequência de triunfos inédita até então -, Timbu não teve as redes vazadas",
     "image": "https://raw.githubusercontent.com/pgustavo73/-soccer-news-api/main/images/3.jpg",
-    "link": "https://ge.globo.com/pe/futebol/times/nautico/post/2022/06/24/pouco-aproveitado-meia-eduardo-teixeira-deixa-o-nautico-lateral-tambem-deve-sair.ghtml"
+    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2022/09/11/melhora-na-defesa-sustenta-competitividade-do-nautico-em-reacao-contra-a-queda-na-serie-b.ghtml"
   },
   {
     "id": 4,
-    "title": "Nove fora...",
-    "description": "Roberto Fernandes quebra a cabeça por substituto de Kieza; Amarildo, Robinho e Júlio são as opções",
+    "title": "Magia de Volta",
+    "description": "Após deixar Jean Carlos na reserva, Dado abre possibilidade do meia ser titular no Náutico",
     "image": "https://raw.githubusercontent.com/pgustavo73/-soccer-news-api/main/images/4.jpg",
-    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2022/06/22/roberto-fernandes-quebra-a-cabeca-por-substituto-de-kieza-veja-opcoes.ghtml"
+    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2022/09/10/apos-deixar-jean-carlos-na-reserva-dado-abre-possibilidade-do-meia-voltar-a-ser-titular-no-nautico.ghtml"
   }
 ]
