@@ -1,30 +1,30 @@
 [
   {
     "id": 1,
-    "title": "Passo a passo e dia a dia",
-    "description": "Jael projeta estreia pelo Náutico em dez dias e fala sobre tempo parado e saída do Ceará",
+    "title": "Saída temporária",
+    "description": "Náutico acerta empréstimo do meia Souza para a Ponte Preta até final da Série B",
     "image": "https://raw.githubusercontent.com/pgustavo73/-soccer-news-api/main/images/1.jpg",
-    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2023/02/16/jael-projeta-estreia-pelo-nautico-em-dez-dias-e-fala-sobre-tempo-parado-e-saida-do-ceara.ghtml"
+    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2023/09/04/nautico-acerta-emprestimo-do-meia-souza-para-a-ponte-preta-ate-final-da-serie-b.ghtml"
   },
   {
     "id": 2,
-    "title": "Avançar significa mais jogos",
-    "description": "Prestes a estrear também na Copa do Brasil, Dado Cavalcanti não projeta folga no calendário do Náutico",
+    "title": "Nome preferido da oposição, Ricardo Malta decide não disputar eleição",
+    "description": "Ex-diretor do clube e do centro de treinamento, empresário afirmou ao ge que a sua decisão é definitiva; assim nome do advogado Aluísio Xavier ganha força nos bastidores",
     "image": "https://raw.githubusercontent.com/pgustavo73/-soccer-news-api/main/images/2.jpg",
-    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2023/02/17/dado-cavalcanti-nao-projeta-folga-no-calendario-do-nautico-avancar-significa-mais-jogos.ghtml"
+    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2023/09/05/nome-preferido-da-oposicao-ricardo-malta-decide-nao-concorrer-na-eleicao-do-nautico.ghtml"
   },
   {
     "id": 3,
-    "title": "Degrau por degrau",
-    "description": "Dado vê evolução no Náutico, que chega ao décimo jogo sem perder na temporada",
+    "title": "Punido",
+    "description": "Náutico e CSA são multados pelo STJD por cânticos homofóbicos em jogo da Série C",
     "image": "https://raw.githubusercontent.com/pgustavo73/-soccer-news-api/main/images/3.jpg",
-    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2023/02/16/dado-ve-evolucao-no-nautico-que-chega-ao-decimo-jogo-sem-perder-na-temporada.ghtml"
+    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2023/09/05/nautico-e-csa-sao-multados-pelo-stjd-por-canticos-homofobicos-em-jogo-da-serie-c.ghtml"
   },
   {
     "id": 4,
-    "title": "Sábado de Carnaval tem estádio (quase) vazio na Copa do Nordeste para Sampaio Corrêa x Náutico",
-    "description": "Vitória do Sampaio Corrêa sobre Náutico tem apenas 765 pessoas no Castelão, com 663 pagantes, e renda bruta de R$ 9.650 pessoas",
+    "title": "Campanha foi a pior do Náutico na história da Série C; veja aproveitamento ano a ano",
+    "description": "Eliminado na primeira fase da competição, Timbu somou apenas 47,3% dos pontos disputados",
     "image": "https://raw.githubusercontent.com/pgustavo73/-soccer-news-api/main/images/4.jpg",
-    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2023/02/18/sabado-de-carnaval-tem-estadio-quase-vazio-na-copa-do-nordeste-para-sampaio-correa-x-nautico.ghtml"
+    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2023/09/07/campanha-do-nautico-foi-a-pior-do-clube-na-historia-da-serie-c-veja-aproveitamento-ano-a-ano.ghtml"
   }
 ]
