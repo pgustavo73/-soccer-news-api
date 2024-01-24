@@ -1,30 +1,30 @@
 [
   {
     "id": 1,
-    "title": "Saída temporária",
-    "description": "Náutico acerta empréstimo do meia Souza para a Ponte Preta até final da Série B",
+    "title": "Clássicos com torcida única",
+    "description": "Federação Pernambucana determina volta dos clássicos envolvendo Náutico, Sport e Santa, no Estadual, apenas com torcida mandante",
     "image": "https://raw.githubusercontent.com/pgustavo73/-soccer-news-api/main/images/1.jpg",
-    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2023/09/04/nautico-acerta-emprestimo-do-meia-souza-para-a-ponte-preta-ate-final-da-serie-b.ghtml"
+    "link": "https://ge.globo.com/pe/futebol/campeonato-pernambucano/noticia/2024/01/22/fpf-determina-classicos-de-torcida-unica-no-campeonato-pernambucano.ghtml"
   },
   {
     "id": 2,
-    "title": "Nome preferido da oposição, Ricardo Malta decide não disputar eleição",
-    "description": "Ex-diretor do clube e do centro de treinamento, empresário afirmou ao ge que a sua decisão é definitiva; assim nome do advogado Aluísio Xavier ganha força nos bastidores",
+    "title": "Sequência complicada",
+    "description": "Em busca da recuperação, Náutico enfrentará o líder e depois um clássico pelo Estadual",
     "image": "https://raw.githubusercontent.com/pgustavo73/-soccer-news-api/main/images/2.jpg",
-    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2023/09/05/nome-preferido-da-oposicao-ricardo-malta-decide-nao-concorrer-na-eleicao-do-nautico.ghtml"
+    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2024/01/22/em-busca-da-recuperacao-nautico-tera-sequencia-complicada-no-pernambucano.ghtml"
   },
   {
     "id": 3,
-    "title": "Punido",
-    "description": "Náutico e CSA são multados pelo STJD por cânticos homofóbicos em jogo da Série C",
+    "title": "Em busca da evolução",
+    "description": "Allan Aal admite baixa produtividade ofensiva do Náutico, mas projeta evolução do time",
     "image": "https://raw.githubusercontent.com/pgustavo73/-soccer-news-api/main/images/3.jpg",
-    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2023/09/05/nautico-e-csa-sao-multados-pelo-stjd-por-canticos-homofobicos-em-jogo-da-serie-c.ghtml"
+    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2024/01/21/tecnico-allan-aal-admite-baixa-produtividade-ofensiva-do-nautico-mas-projeta-evolucao-do-time.ghtml"
   },
   {
     "id": 4,
-    "title": "Campanha foi a pior do Náutico na história da Série C; veja aproveitamento ano a ano",
-    "description": "Eliminado na primeira fase da competição, Timbu somou apenas 47,3% dos pontos disputados",
+    "title": "Náutico fecha dois novos patrocínios para a temporada",
+    "description": "Com marca estampada na parte inferior da camisa, empresa especializada em grama sintética vai instalar um campo de dimensões reduzidas no CT; a outra marca vai estar no calção dos jogadores",
     "image": "https://raw.githubusercontent.com/pgustavo73/-soccer-news-api/main/images/4.jpg",
-    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2023/09/07/campanha-do-nautico-foi-a-pior-do-clube-na-historia-da-serie-c-veja-aproveitamento-ano-a-ano.ghtml"
+    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2024/01/20/nautico-fecha-dois-novos-patrocinios-para-a-temporada.ghtml"
   }
 ]
