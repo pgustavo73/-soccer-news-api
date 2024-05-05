@@ -1,30 +1,37 @@
 [
   {
     "id": 1,
-    "title": "Clássicos com torcida única",
-    "description": "Federação Pernambucana determina volta dos clássicos envolvendo Náutico, Sport e Santa, no Estadual, apenas com torcida mandante",
+    "title": "Novos uniformes do Náutico devem ser lançados em junho",
+    "description": "Diretoria alvirrubra ainda tenta junto à fornecedora de material esportivo a antecipação do lançamento; clube deixará de usar numeração azul no seu uniforme após 11 anos",
     "image": "https://raw.githubusercontent.com/pgustavo73/-soccer-news-api/main/images/1.jpg",
-    "link": "https://ge.globo.com/pe/futebol/campeonato-pernambucano/noticia/2024/01/22/fpf-determina-classicos-de-torcida-unica-no-campeonato-pernambucano.ghtml"
+    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2024/05/05/novos-uniformes-do-nautico-devem-ser-lancados-em-junho-e-trarao-de-volta-numeracao-branca.ghtml"
   },
   {
     "id": 2,
-    "title": "Sequência complicada",
-    "description": "Em busca da recuperação, Náutico enfrentará o líder e depois um clássico pelo Estadual",
+    "title": "Uiles? Técnico do Náutico revela paixões além do futebol e banca acesso na Série C ",
+    "description": "Em quadro Carona do GE, Mazola Júnior conta obstinação ao próprio trabalho, referências na profissão, dom do vestiário e confiança no elenco alvirrubro para o acesso à Segunda Divisão",
     "image": "https://raw.githubusercontent.com/pgustavo73/-soccer-news-api/main/images/2.jpg",
-    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2024/01/22/em-busca-da-recuperacao-nautico-tera-sequencia-complicada-no-pernambucano.ghtml"
+    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2024/05/03/uiles-tecnico-do-nautico-revela-paixoes-alem-do-futebol-e-banca-acesso-na-serie-c-e-sim-ou-sopa.ghtml"
   },
   {
     "id": 3,
-    "title": "Em busca da evolução",
-    "description": "Allan Aal admite baixa produtividade ofensiva do Náutico, mas projeta evolução do time",
+    "title": "Confiante",
+    "description": "Aos 23 anos, volante chega ao Náutico após dois acessos",
     "image": "https://raw.githubusercontent.com/pgustavo73/-soccer-news-api/main/images/3.jpg",
-    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2024/01/21/tecnico-allan-aal-admite-baixa-produtividade-ofensiva-do-nautico-mas-projeta-evolucao-do-time.ghtml"
+    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2024/05/03/aos-23-anos-volante-chega-ao-nautico-apos-dois-acessos-trago-essas-experiencias.ghtml"
   },
   {
     "id": 4,
-    "title": "Náutico fecha dois novos patrocínios para a temporada",
-    "description": "Com marca estampada na parte inferior da camisa, empresa especializada em grama sintética vai instalar um campo de dimensões reduzidas no CT; a outra marca vai estar no calção dos jogadores",
+    "title": "Confira as estatísticas da Série C: artilheiros, assistências, goleadas, cartões...",
+    "description": "ge atualiza rodada a rodada os números da Terceirona em 2024",
     "image": "https://raw.githubusercontent.com/pgustavo73/-soccer-news-api/main/images/4.jpg",
-    "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2024/01/20/nautico-fecha-dois-novos-patrocinios-para-a-temporada.ghtml"
+    "link": "https://ge.globo.com/pb/futebol/brasileirao-serie-c/noticia/2024/05/01/serie-c-2024-confira-as-estatisticas-artilheiros-assistencias-goleadas-cartoes.ghtml"
+  },
+  {
+    "id": 5,
+    "title": "Wendel Lessa celebra sequência como titular do Náutico com Mazola",
+    "description": "Volante foi titular nos dois jogos da Série C e destaca fim do peso negativo com vitória sobre o ABC; ele também projetou duelo contra o Ypiranga-RS, no próximo sábado, nos Aflitos",
+    "image": "https://raw.githubusercontent.com/pgustavo73/-soccer-news-api/main/images/5.jpg",
+    "link": "https://ge.globo.com/pb/futebol/brasileirao-serie-c/noticia/2024/05/01/serie-c-2024-confira-as-estatisticas-artilheiros-assistencias-goleadas-cartoes.ghtml"
   }
 ]
